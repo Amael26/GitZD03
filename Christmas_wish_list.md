@@ -2,35 +2,35 @@
 
 
 ## CHILDREN
-- Lego/Duplo/Blocks
-- Hot Wheels/trucks/trains
-- Barbies & dolls
-- Colouring and art kits
-- Paw Patrol toys
-- Bluey toys
-- Peppa Pig toys
-- Marvel/Superhero toys
+- Lego/Duplo/Blocks (OK)
+- Hot Wheels/trucks/trains (OK)
+- Barbies & dolls (NOK, we don't have small girls)
+- Colouring and art kits (OK)
+- Paw Patrol toys (OK)
+- Bluey toys (OK)
+- Peppa Pig toys (NOK, boys do not like it)
+- Marvel/Superhero toys (OK)
 
 ## TEENS
-- Headphones
-- Bluetooth speakers
-- Gift cards
-- Adult Lego (sold in black boxes)
-- Stanley cups/Starbucks cups
-- Makeup kits
-- Sport balls (soccer, basketball, football)
-- Hockey stick + puck/ball
+- Headphones (OK)
+- Bluetooth speakers (NOK, too noisy)
+- Gift cards (OK)
+- Adult Lego (sold in black boxes) (OK)
+- Stanley cups/Starbucks cups (OK)
+- Makeup kits (NOK no teen girls)
+- Sport balls (soccer, basketball, football) (OK)
+- Hockey stick + puck/ball (OK)
 
 
 ## ADULTS
-- Household items
-- Self-care items/candles/bath bombs
-- Towels
-- Bed sheets/comforters/blankets
-- Kitchenware & bakeware
-- Tools
-- Small appliances (coffee makers, rice cooker, blenders etc.)
-- Hair straightener/blow dryer
-- Hygiene kits/shaving kits
-- Puzzles/board Games
-- Adult art kits (diamond kits, crochet kits, painting kits)
+- Household items (OK)
+- Self-care items/candles/bath bombs (OK)
+- Towels (NOK, we have plenty of towels)
+- Bed sheets/comforters/blankets (OK)
+- Kitchenware & bakeware (OK)
+- Tools (OK)
+- Small appliances (coffee makers, rice cooker, blenders etc.) (NOK, everyone has muticookers)
+- Hair straightener/blow dryer (OK)
+- Hygiene kits/shaving kits (OK)
+- Puzzles/board Games (OK)
+- Adult art kits (diamond kits, crochet kits, painting kits) (OK)
